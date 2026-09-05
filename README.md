@@ -15,7 +15,7 @@ The backend includes SQLite database setup, SQLAlchemy model, Pydantic schemas, 
 - SQLAlchemy
 - SQLite
 - Pydantic
-- Uvicorn
+- Uv
 
 ## Project Structure
 
